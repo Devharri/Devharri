@@ -9,9 +9,9 @@
 📫 How to reach me ... devharri@outlook.com
 
 🗂️ I have separate organizations for:
-- Learning (Devharri-learn) purposes
-- Testing (Devharri-test) purposes
-- Especially my Web Portfolio is separated for its own organization (Devharri-portfolio) https://www.harrihonkanen.com
+- Learning ([Devharri-learn](https://github.com/devharri-learn)) purposes
+- Testing ([Devharri-test](https://github.com/devharri-test)) purposes
+- Especially my Web Portfolio is separated for its own organization ([Devharri-portfolio](https://github.com/devharri-portfolio)) https://www.harrihonkanen.com
 
 <!---
 Devharri/Devharri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
